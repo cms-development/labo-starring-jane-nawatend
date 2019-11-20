@@ -26,3 +26,7 @@ En Vue compileert al die templates in virtueel DOM Render functie. Vue JS is gec
 * Duidelijk file structuur: component, script en style in een file.
 * Leercurve is laag dus makkelijk te gebruiken
 * Vue observable: lichtgewicht alternatief voor state management in kleinere toepassingen
+
+#### Feedback
+Workshop was zeer informatief en duidelijk want ze hebben Vue JS uitgelegd met de hulp van hun simpele project. Beide sprekers weten echt goed over wat ze aan vertellen zijn. Ze hebben zeer goed uitgelegd op onze niveau en was aangenaam. 
+Maar ze hebben geprobeerd om hun bedrijf te verkopen met hun ‘fancy’ vakanties. Het zou beter zijn als we samen iets kleine mee ontwikkellen. Ik viel bijna in slaap.
