@@ -7,10 +7,10 @@
 * Feedback
 
 ### Starring Jane
-Starring Jane is een digitale agency die diensten aanbiedt zoals digitale strategie, design & concept, implementatie van concept en natuurlijk de SEO. Laurens Bultynck & Thomas Seyssens waren de sprekers van Starring Jane.
+Starring Jane is een digitale agency die diensten aanbiedt zoals digitale strategie, design & concept, implementatie van concept en natuurlijk de SEO. **Laurens Bultynck & Thomas Seyssens** waren de sprekers van Starring Jane.
 
 ### Doel
-Ze hebben verteld over hun bedrijf en Vue.js. Dus de eindedoel van die dag was dat we als studenten de voordelen & de werking van Vue.js en de bedrijf Starring Jane kennen. Ze hebben Vue JS uitgelegd met hulp van hun voorbije project [Mijnherinneringaanjou](https://mijnherinneringaanjou.be). Dat project is heel interessant want de kinderen kunnen hun verlies in soepelere manier omgaan.
+Ze hebben verteld over hun bedrijf en Vue.js. Dus de eindedoel van die dag was dat we als studenten de voordelen & de werking van Vue.js en de bedrijf Starring Jane kennen. Ze hebben Vue JS uitgelegd met hulp van hun voorbije project [Mijnherinneringaanjou](https://mijnherinneringaanjou.be). Dat project is heel interessant want de kinderen kunnen hun verlies in soepelere manier omgaan met rouwen.
 
 ### Vue JS
 Vue JS is een Javascript framework, maakt gebruik van 
@@ -28,5 +28,5 @@ En Vue compileert al die templates in virtueel DOM Render functie. Vue JS is gec
 * Vue observable: lichtgewicht alternatief voor state management in kleinere toepassingen
 
 #### Feedback
-Workshop was zeer informatief en duidelijk want ze hebben Vue JS uitgelegd met de hulp van hun simpele project. Beide sprekers weten echt goed over wat ze aan vertellen zijn. Ze hebben zeer goed uitgelegd op onze niveau en was aangenaam. 
-Maar ze hebben geprobeerd om hun bedrijf te verkopen met hun ‘fancy’ vakanties. Het zou beter zijn als we samen iets kleine mee ontwikkellen. Ik viel bijna in slaap.
+Workshop was zeer informatief en duidelijk want ze hebben Vue JS uitgelegd met de hulp van hun simpele project. Beide sprekers weten echt goed over wat ze aan vertellen zijn. Ze hebben zeer goed uitgelegd op onze niveau. 
+Maar ze hebben geprobeerd om hun bedrijf te verkopen met hun ‘fancy’ vakanties. Het zou beter zijn als we samen iets kleine mee ontwikkellen in Vue JS. Ik viel bijna in slaap en zat op eerste rij :(
