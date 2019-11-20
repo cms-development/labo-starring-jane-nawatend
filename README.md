@@ -30,3 +30,10 @@ En Vue compileert al die templates in virtueel DOM Render functie. Vue JS is gec
 #### Feedback
 Workshop was zeer informatief en duidelijk want ze hebben Vue JS uitgelegd met de hulp van hun simpele project. Beide sprekers weten echt goed over wat ze aan vertellen zijn. Ze hebben zeer goed uitgelegd op onze niveau. 
 Maar ze hebben geprobeerd om hun bedrijf te verkopen met hun ‘fancy’ vakanties. Het zou beter zijn als we samen iets kleine mee ontwikkellen in Vue JS. Ik viel bijna in slaap en zat op eerste rij :(
+
+#### Presentatie skills
+*Perspectief van 1ste rij*
+* Soms praten ze te zacht, dus laatste rijen konden niet goed horen.
+* Oogcontact: okay
+* Ruimte gebruik: okay
+* non-verbaal: geen klachten
